@@ -1,15 +1,15 @@
 +++
 title = "Basar, Bildung, Gemeinschaft: Die einzigartige Welt der Rudolf Steiner Schule "
 date = "2024-02-25"
-draft = true
+draft = false
 pinned = false
 tags = ["SteinerSchule", "Pädagogik", "Basar"]
 image = "basar-bild-1_compressed.png"
 description = "Einmal im Jahr öffnet die Rudolf Steiner Schule in Ittigen ihre Tore für den viel erwarteten Steiner Schul-Basar. Ein bunter Marktplatz der Kreativität, der nicht nur ein Schaufenster für Kunsthandwerk und kulinarische Köstlichkeiten bietet, sondern auch Einblicke in die einzigartige pädagogische Philosophie dieser alternativen Bildungseinrichtung gewährt. Im Mittelpunkt des Schulalltags steht ein Streben nach Einklang und Ganzheit von Seele, Geist und Körper. Durch rhythmisches Tanzen, farbenfrohes Gestalten und Zeit in der Natur wird auf diese Ziele hingesteuert. Dahinter steckt traditionsreiche Pädagogik, Gemeinschaft und Herzblut.  "
 +++
-# Basar, Bildung, Gemeinschaft: 
+# Basar, Bildung, Gemeinschaft:
 
-# Die einzigartige Welt der Rudolf Steiner Schule 
+# Die einzigartige Welt der Rudolf Steiner Schule
 
 `{{</*lead*/>}}`\
 
@@ -55,11 +55,15 @@ Das Leitbild der Rudolf Steiner Schulen stützt sich auf den Glauben an die Geme
 
 <!--EndFragment-->
 
+`{{</*/box*/>}}`
+
 <!--StartFragment-->
 
 > *«Der Basar soll Gemeinschaft, Pflege und Hauswirtschaft fördern. Aber auch das Gemeinschaftsgefühl und die Kultur sollen gestärkt werden. Die Kinder sollen realisieren, dass sie die Schule sind.» (Florian Furrer, 25.11.2023)*
 
 <!--EndFragment-->
+
+`{{</*/box*/>}}`
 
 <!--StartFragment-->
 
@@ -69,11 +73,15 @@ Heutzutage kritisieren einige dieses Lernmodel, da es angeblich für die Kinder 
 
 <!--EndFragment-->
 
+`{{</*/box*/>}}`
+
 <!--StartFragment-->
 
 *«Ich hoffe, dass zukünftig mehr Vertrauen in die Schule gelegt wird. Sie soll weniger stigmatisiert und ohne Vorurteile betrachtet werden.» (Florian Furrer, 25.11.2023)*
 
 <!--EndFragment-->
+
+`{{</*/box*/>}}`
 
 {{<box>}}
 
@@ -85,7 +93,7 @@ Heutzutage kritisieren einige dieses Lernmodel, da es angeblich für die Kinder 
 
 ## Die Pädagogik spürbar am Basar
 
-In den Theatersälen, welche das gleiche architektonische Muster aufweisen, wie der Rest des Gebäudes, sind Kurzauftritte von Schüler*i*nnen der Schule zu sehen. Beim Betrachten dieser Darbietungen ist zu erkennen, dass diese hervorragend strukturiert sind und authentisch wirken. Die Kinder entfalten auf dieser Bühne förmlich ihr Inneres, sie drücken Einklang zwischen Geist, Körper und Seele aus und verzaubern die Menschenmassen\*.\* Die Auftritte gehen zu Ende und der Applaus beginnt zu toben. Die Menschen erheben sich und strömen mit heiteren Gesprächen aus dem Saal. Auf einer Steinbank sitzend, wird das Gehörte und Gesehene eingeordnet und reflektiert. Die selbstgefertigten Postkarten, Kerzen und der Schmuck, welche auf den Basarständen präsentiert werden, spiegeln den Fokus auf kreatives Schaffen und Selbstentfaltung wider. Die individuelle Entwicklung und hauswirtschaftlichen Fähigkeiten werden beim Basar gefördert, da die Kinder die Stände teils selbst betreiben. Die Schülerinnen sind aktiv in den Organisationsprozess eingebunden, sei es bei der Auswahl der Produkte, beim Aufbau von Ständen oder bei der Durchführung von Aktivitäten. Dies spiegelt die Vision wider, dass Bildung ein gemeinschaftlicher Prozess ist, in welchem Lehrpersonen und Kinder eine gleichwertige Rolle spielen.
+In den Theatersälen, welche das gleiche architektonische Muster aufweisen, wie der Rest des Gebäudes, sind Kurzauftritte von Schüler*i*nnen der Schule zu sehen. Beim Betrachten dieser Darbietungen ist zu erkennen, dass diese hervorragend strukturiert sind und authentisch wirken. Die Kinder entfalten auf dieser Bühne förmlich ihr Inneres, sie drücken Einklang zwischen Geist, Körper und Seele aus und verzaubern die Menschenmassen. Die Auftritte gehen zu Ende und der Applaus beginnt zu toben. Die Menschen erheben sich und strömen mit heiteren Gesprächen aus dem Saal. Auf einer Steinbank sitzend, wird das Gehörte und Gesehene eingeordnet und reflektiert. Die selbstgefertigten Postkarten, Kerzen und der Schmuck, welche auf den Basarständen präsentiert werden, spiegeln den Fokus auf kreatives Schaffen und Selbstentfaltung wider. Die individuelle Entwicklung und hauswirtschaftlichen Fähigkeiten werden beim Basar gefördert, da die Kinder die Stände teils selbst betreiben. Die Schülerinnen sind aktiv in den Organisationsprozess eingebunden, sei es bei der Auswahl der Produkte, beim Aufbau von Ständen oder bei der Durchführung von Aktivitäten. Dies spiegelt die Vision wider, dass Bildung ein gemeinschaftlicher Prozess ist, in welchem Lehrpersonen und Kinder eine gleichwertige Rolle spielen.
 
 Der Basar der Steiner Schule in Ittigen ist somit nicht nur ein Schulanlass für handgemachte Waren, sondern er gewährt einen Einblick in die Grundprinzipien dieser alternativen Bildungsrichtung. Individualität, Gemeinschaft und die gelebten Werte der Kreativität, welche im Schulalltag eine zentrale Rolle spielen, werden hierbei reflektiert und nach außen getragen. Durch Aufführungen wird das Streben nach Einklang zwischen Geist, Körper und Seele vermittelt. Die Debatte über die Effektivität dieser alternativen Bildung bleibt ein kontroverses Thema. Die Frage bezüglich ihrer Anpassungsfähigkeit an moderne Anforderungen ist offen. Schlussendlich ist der Basar ein Fenster, welches Einblicke hinter die Kulissen ermöglicht, indem die Anthroposophie und ihre Pädagogik erlebbar gemacht werden.
 
@@ -95,7 +103,7 @@ Der Basar der Steiner Schule in Ittigen ist somit nicht nur ein Schulanlass für
 
 <!--StartFragment--!>
 
-\*\*Infokasten\*\*
+\\*\\*Infokasten\\*\\*
 
 Weltweit gibt es, Stand Mai 2020 1214 Steiner- respektive Waldorfschulen. Die meisten befinden sich im Gründungsland Deutschland, dort sind es 252 an der Zahl. In der Schweiz sind es 32 darunter auch die Rudolf Steiner Schule in Ittigen.
 
