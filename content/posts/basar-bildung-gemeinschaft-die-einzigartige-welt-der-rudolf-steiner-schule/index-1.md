@@ -23,7 +23,7 @@ Einmal im Jahr öffnet die Rudolf Steiner Schule in Ittigen ihre Tore für den v
 
 {{</box>}}
 
-![Gemeinschaft und Kreativität sind das oberste Gebot! Ein Blick auf den Basar der Rudolf Steiner Schule, wo Handwerkskunst und Begegnungen im Einklang mit der Schule stehen.](basar-bild-1_compressed.png)
+![Gemeinschaft und Kreativität sind das oberste Gebot! Ein Blick auf den Basar der Rudolf Steiner Schule, wo Handwerkskunst und Begegnungen im Einklang mit der Schule stehen.](basar-bild-1_compressed.png "Rahel Krebs, Lina Britschgi ")
 
 {{</box>}}
 
@@ -103,7 +103,7 @@ Der Basar der Steiner Schule in Ittigen ist somit nicht nur ein Schulanlass für
 
 <!--StartFragment--!>
 
-\\\*\\\*Infokasten\\\*\\\*
+\\\\*\\\\*Infokasten\\\\*\\\\*
 
 Weltweit gibt es, Stand Mai 2020 1214 Steiner- respektive Waldorfschulen. Die meisten befinden sich im Gründungsland Deutschland, dort sind es 252 an der Zahl. In der Schweiz sind es 32 darunter auch die Rudolf Steiner Schule in Ittigen.
 
