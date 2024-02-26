@@ -18,11 +18,7 @@ Steiner-Schul-Pädagoge Florian Furrer brennt für die Zukunft der Kinder! 
 
 {{<lead>}}
 
-{{<box>}}
-
 ![Ein Steiner-Schul-Pädagoge in den Sommerferien! Florian Furrer im West End, London (04.07.2023)](florian-furrer.liloblog.png "Lina Britschgi und Rahel Krebs")
-
-{{<box>}}
 
 `{{</*lead*/>}}`\
 
