@@ -13,21 +13,13 @@ Einmal im Jahr öffnet die Rudolf Steiner Schule in Ittigen ihre Tore für den v
 Rahel Krebs, Lina Britschgi \
 `{{</lead>}}`
 
-`{{<box>}}`
-
 ![Gemeinschaft und Kreativität sind das oberste Gebot! Ein Blick auf den Basar der Rudolf Steiner Schule, wo Handwerkskunst und Begegnungen im Einklang mit der Schule stehen.](basar-bild-1_compressed.png)
-
-`{{</box>}}`
 
 Vor dem hölzernen Eingangsbogen des alljährlichen Rudolf Steiner Schul-Basars liegt ein esoterischer Duft, der von verschiedenen Essensgerüchen durchbrochen wird, in der kalten Luft. Zwei Schritte unter dem Bogen durch und schon ist man mitten im Geschehen. Essensstände zur Linken und Rechten, spielende Kinder in einem abgesperrten Bereich auf Vehikeln aller Art. Der Blick wandert über das Geschehen und bleibt bei den Eingangstoren des imposanten Gebäudes stehen. Es ähnelt der ersten Schule ihrer Art, Fenster mit runden Ecken im Zusammenspiel mit untypischen Winkeln in der Fassade. 1919 entwarf Rudolf Steiner die erste Waldorf Schule, der Auftrag kam von Emil Molt, Besitzer der damaligen Waldorf Astoria Zigarettenfabrik. Die Vision war eine Bildung nach dem Prinzip der sozialen Gerechtigkeit. Bis heute blieb man dieser Vision treu.
 
 Um mehr über diese besondere Bildungsphilosophie zu erfahren, gibt es nur einen Weg: Ein letzter Blick auf das heitere Treiben und dann ab durch die Tür. Menschen, wo hin das Auge reicht. Stimmengewirr dröhnend in den Ohren. Wenige Augenblicke vergehen, die Sinne gewöhnen sich. Orientierung verschaffen und rein ins Getümmel.  Im Parterre unterscheidet sich das Angebot von Schulzimmer zu Schulzimmer. Von Schmuck, Kristallen, Kleidung, über Postkarten, Bilder, Holzfiguren bis zu Pflegeprodukten und Kerzen gibt es alles. Etwas fällt auf, das meiste ist in einem ähnlichen handgemachten Stil. Alles wirkt etwas alternativ; fremd denen, welche gewöhnliche Schulanlässe gewohnt sind. Im Untergeschoss sind Kinder bei verschiedensten Aktivitäten zu sehen. Die einen dekorieren Lebkuchen, die anderen ziehen Kerzen. Im Zimmer vis-à-vis sind die Klänge eines kleinen Konzerts mit Akkordeon zu vernehmen.
 
-{{<box>}}
-
 ![Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachten Holzfiguren und Gemälden.](basar-bild.jpg)
-
-`{{</box>}}`
 
 ## **Die Pädagogik hinter der Rudolf Steiner Schule**
 
@@ -54,12 +46,8 @@ Heutzutage kritisieren einige dieses Lernmodel, da es angeblich für die Kinder 
 > *«Ich hoffe, dass zukünftig mehr Vertrauen in die Schule gelegt wird. Sie soll weniger stigmatisiert und ohne Vorurteile betrachtet werden.» (Florian Furrer, 25.11.2023)*
 >
 > `{{</box>}}`
->
-> {{<box>}}
 
 ![Tanz der Harmonie von Seele, Körper und Geist. Auftritt von Schüler*innen von Eurythmie auf der Rudolf Steiner Schule Bühne auf.(verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024)](eurythmie.reportage.png)
-
-`{{</box>}}`
 
 ## Die Pädagogik spürbar am Basar
 
@@ -69,8 +57,6 @@ Der Basar der Steiner Schule in Ittigen ist somit nicht nur ein Schulanlass für
 
 {{<box>}}
 **Infokasten**
-
-
 
 Weltweit gibt es, Stand Mai 2020 1214 Steiner- respektive Waldorfschulen. Die meisten befinden sich im Gründungsland Deutschland, dort sind es 252 an der Zahl. In der Schweiz sind es 32 darunter auch die Rudolf Steiner Schule in Ittigen.
 
