@@ -12,7 +12,7 @@ Steiner-Schul-Pädagoge Florian Furrer brennt für die Zukunft der Kinder! 
 
 Lina Britschgi und Rahel Krebs 
 
-![](florian-furrer-bild.jpeg "Ein Steiner-Schul-Pädagoge in den Sommerferien! Florian Furrer im West End, London (04.07.2023)")
+![Ein Steiner-Schul-Pädagoge in den Sommerferien! Florian Furrer im West End, London (04.07.2023)](florian-furrer-26.jpg)
 
 Der stolze Familienvater Florian Furrer unterrichtet und erzieht mit Leidenschaft. Seit einigen Jahren arbeitet er als Pädagoge und Standortleiter an der Rudolf-Steiner-Schule in Ittigen. Die Philosophie und Herangehensweise der Schule haben ihn überzeugt, weswegen seine Kinder ebenfalls die alternative Bildungseinrichtung besuchen.  
 
@@ -91,7 +91,5 @@ Oberste Priorität hat die Stärkung der Schulgemeinschaft. Ausserdem wird der A
 **Was soll dieser Anlass bei den Kindern fördern?** 
 
 Es soll Gemeinschaft, Pflege und Hauswirtschaft fördern. Aber auch das Gemeinschaftsgefühlt und die Kultur soll gestärkt werden.  
-
-
 
 > *«Die Welt ist gut, die Welt ist schön, die Welt ist wahr.» (Florian Furrer)*
