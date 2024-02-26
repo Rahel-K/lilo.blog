@@ -12,7 +12,7 @@ Steiner-Schul-Pädagoge Florian Furrer brennt für die Zukunft der Kinder! 
 
 Lina Britschgi und Rahel Krebs 
 
-![Ein Steiner-Schul-Pädagoge in den Sommerferien! Florian Furrer im West End, London (04.07.2023)](florian-furrer-bild-5.png "Ein Steiner-Schul-Pädagoge in den Sommerferien! Florian Furrer im West End, London (04.07.2023)")
+![](florian-furrer-bild-5.png)
 
 Der stolze Familienvater Florian Furrer unterrichtet und erzieht mit Leidenschaft. Seit einigen Jahren arbeitet er als Pädagoge und Standortleiter an der Rudolf-Steiner-Schule in Ittigen. Die Philosophie und Herangehensweise der Schule haben ihn überzeugt, weswegen seine Kinder ebenfalls die alternative Bildungseinrichtung besuchen.  
 
