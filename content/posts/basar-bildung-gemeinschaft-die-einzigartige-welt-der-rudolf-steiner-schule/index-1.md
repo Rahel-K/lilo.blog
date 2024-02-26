@@ -2,14 +2,12 @@
 title = "Basar, Bildung, Gemeinschaft: Die einzigartige Welt der Rudolf Steiner Schule "
 date = "2024-02-25"
 draft = false
-pinned = true
+pinned = false
 tags = ["SteinerSchule", "Pädagogik", "Basar"]
 image = "basar-bild-1_compressed.png"
 description = "Einmal im Jahr öffnet die Rudolf Steiner Schule in Ittigen ihre Tore für den viel erwarteten Steiner Schul-Basar. Ein bunter Marktplatz der Kreativität, der nicht nur ein Schaufenster für Kunsthandwerk und kulinarische Köstlichkeiten bietet, sondern auch Einblicke in die einzigartige pädagogische Philosophie dieser alternativen Bildungseinrichtung gewährt. Im Mittelpunkt des Schulalltags steht ein Streben nach Einklang und Ganzheit von Seele, Geist und Körper. Durch rhythmisches Tanzen, farbenfrohes Gestalten und Zeit in der Natur wird auf diese Ziele hingesteuert. Dahinter steckt traditionsreiche Pädagogik, Gemeinschaft und Herzblut.  "
 +++
-`{{<lead>}}`\
-Einmal im Jahr öffnet die Rudolf Steiner Schule in Ittigen ihre Tore für den viel erwarteten Steiner Schul-Basar. Ein bunter Marktplatz der Kreativität, der nicht nur ein Schaufenster für Kunsthandwerk und kulinarische Köstlichkeiten bietet, sondern auch Einblicke in die einzigartige pädagogische Philosophie dieser alternativen Bildungseinrichtung gewährt. Im Mittelpunkt des Schulalltags steht ein Streben nach Einklang und Ganzheit von Seele, Geist und Körper. Durch rhythmisches Tanzen, farbenfrohes Gestalten und Zeit in der Natur wird auf diese Ziele hingesteuert. Dahinter steckt traditionsreiche Pädagogik, Gemeinschaft und Herzblut.  \
-`{{</lead>}}`
+Einmal im Jahr öffnet die Rudolf Steiner Schule in Ittigen ihre Tore für den viel erwarteten Steiner Schul-Basar. Ein bunter Marktplatz der Kreativität, der nicht nur ein Schaufenster für Kunsthandwerk und kulinarische Köstlichkeiten bietet, sondern auch Einblicke in die einzigartige pädagogische Philosophie dieser alternativen Bildungseinrichtung gewährt. Im Mittelpunkt des Schulalltags steht ein Streben nach Einklang und Ganzheit von Seele, Geist und Körper. Durch rhythmisches Tanzen, farbenfrohes Gestalten und Zeit in der Natur wird auf diese Ziele hingesteuert. Dahinter steckt traditionsreiche Pädagogik, Gemeinschaft und Herzblut.  
 
 ![Gemeinschaft und Kreativität sind das oberste Gebot! Ein Blick auf den Basar der Rudolf Steiner Schule, wo Handwerkskunst und Begegnungen im Einklang mit der Schule stehen.](basar-bild-1_compressed.png)
 
@@ -29,21 +27,17 @@ Ein Markenzeichen dieser Schulen ist die Einführung von Eurythmie, einer einzig
 
 Das Leitbild der Rudolf Steiner Schulen stützt sich auf den Glauben an die Gemeinschaft. Das Ziel ist es, dem einzelnen zu seinem Besten zu verhelfen aber ebenso ihn seinen Platz in der Gemeinschaft finden zu lassen. Die Schule unternimmt zahlreiche Aktivitäten zur Stärkung der Gemeinschaft, beispielsweise diesen Basar.
 
-{{<box>}}
+
 
 > *«Der Basar soll Gemeinschaft, Pflege und Hauswirtschaft fördern. Aber auch das Gemeinschaftsgefühl und die Kultur sollen gestärkt werden. Die Kinder sollen realisieren, dass sie die Schule sind.» (Florian Furrer, 25.11.2023)*
 
-`{{</box>}}`
+
 
 ## Diese Philosophie stösst auch auf Kritik
 
 Heutzutage kritisieren einige dieses Lernmodel, da es angeblich für die Kinder nicht fördernd sei, wenn sie eine zu starke emotionale Bindung zu einer Lehrperson hätten. Ausserdem sei es fast unverantwortbar zu erwarten, dass eine Lehrperson sich das Wissen für acht Schuljahre souverän aneignen und weitergeben könne. Auf den zweiten Kritikpunkt treten einige Schulen ein und lassen die Lehrpersonen drei bis sechs Jahre bei der gleichen Klasse und nicht acht, so auch die Rudolf Steiner Schule in Ittigen.  Ebenfalls bemängelt werden Eurythmie und der grosse Anteil an Kunst- und Handarbeitsfächern. Kritiker sind der Meinung, dass dies die Kinder nicht weiterbringe, sondern pure Zeitverschwendung sei. Die Pädagogik hinter der Steiner Schule legt jedoch expliziten Wert darauf, denn dies soll die Selbstverwirklichung und Entfaltung der Kinder fördern.  Aussenstehende bringen auch Kritik an der Gemeinschaft an, denn die Rudolf Steiner Schule wirke abgeschlossen von der Aussenwelt, und dies würde den Kindern mögliche alternative Perspektiven verwehren und einen gewissen Grad an Homogenität entstehen lassen. Einer der grössten Kritikpunkte im digitalen Zeitalter ist der fehlende Umgang mit neuen Medien. Dies räumt Herr Furrer ebenfalls ein: „Im Vergleich zu staatlichen Schulen haben wir punkto digitaler Medien aber noch viel aufzuholen.“ Trotz der Kritikpunkte gibt es viele Eltern, welche den Fokus auf persönliche Entfaltung und kreative Verwirklichung schätzen und gerade deswegen die Rudolf Steiner Schule für ihre Kinder wählen. Die Debatte über diesen alternativen Bildungsweg wird weithin kontrovers geführt. Diskussionspunkte sind, ob die Rudolf Steiner Schule tatsächlich einen Weg zu einer ganzheitlichen Bildung darstellt und ob sie den Anforderungen der modernen Welt ausreichend gerecht werden kann.
 
-{{<box>}}
-
 > *«Ich hoffe, dass zukünftig mehr Vertrauen in die Schule gelegt wird. Sie soll weniger stigmatisiert und ohne Vorurteile betrachtet werden.» (Florian Furrer, 25.11.2023)*
->
-> `{{</box>}}`
 
 ![Tanz der Harmonie von Seele, Körper und Geist. Auftritt von Schüler*innen von Eurythmie auf der Rudolf Steiner Schule Bühne auf.(verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024)](eurythmie.reportage.png)
 
