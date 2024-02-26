@@ -1,7 +1,7 @@
 +++
 title = "Basar, Bildung, Gemeinschaft: Die einzigartige Welt der Rudolf Steiner Schule "
 date = "2024-02-25"
-draft = false
+draft = true
 pinned = false
 tags = ["SteinerSchule", "Pädagogik", "Basar"]
 image = "basar-bild-1_compressed.png"
