@@ -8,19 +8,18 @@ image = "florian-furrer.liloblog.png"
 description = "Der stolze Familienvater Florian Furrer unterrichtet und erzieht mit Leidenschaft. Seit einigen Jahren arbeitet er als Pädagoge und Standortleiter an der Rudolf-Steiner-Schule in Ittigen. Die Philosophie und Herangehensweise der Schule haben ihn überzeugt, weswegen seine Kinder ebenfalls die alternative Bildungseinrichtung besuchen.  \n\nFlorian Furrer ist selbst beim Rudolf-Steiner-Schul-Basar beteiligt und lädt uns ein."
 footnotes = ""
 +++
-### `{{<lead>}}`\
+`{{<lead>}}`\
+
 Steiner-Schul-Pädagoge Florian Furrer brennt für die Zukunft der Kinder! \
 `{{</lead>}}`
 
 ![](florian-furrer.liloblog.png "Ein Steiner-Schul-Pädagoge in den Sommerferien! Florian Furrer im West End, London (04.07.2023)")
 
-`{{</*lead*/>}}`
-
 Der stolze Familienvater Florian Furrer unterrichtet und erzieht mit Leidenschaft. Seit einigen Jahren arbeitet er als Pädagoge und Standortleiter an der Rudolf-Steiner-Schule in Ittigen. Die Philosophie und Herangehensweise der Schule haben ihn überzeugt, weswegen seine Kinder ebenfalls die alternative Bildungseinrichtung besuchen.  
 
 Florian Furrer ist selbst beim Rudolf-Steiner-Schul-Basar beteiligt und lädt uns ein.
 
-`{{</*lead*/>}}`
+
 
 **Wie würden sie die Pädagogik hinter der Rudolf-Steiner-Schule Jemandem ohne Vorwissen erklären?** 
 
@@ -96,5 +95,4 @@ Oberste Priorität hat die Stärkung der Schulgemeinschaft. Ausserdem wird der A
 
 Es soll Gemeinschaft, Pflege und Hauswirtschaft fördern. Aber auch das Gemeinschaftsgefühlt und die Kultur soll gestärkt werden.  
 
-> \
 > *«Die Welt ist gut, die Welt ist schön, die Welt ist wahr.» (Florian Furrer)*
