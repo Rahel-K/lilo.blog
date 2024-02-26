@@ -7,8 +7,6 @@ tags = ["SteinerSchule", "Pädagogik", "Basar"]
 image = "basar-bild-1_compressed.png"
 description = "Einmal im Jahr öffnet die Rudolf Steiner Schule in Ittigen ihre Tore für den viel erwarteten Steiner Schul-Basar. Ein bunter Marktplatz der Kreativität, der nicht nur ein Schaufenster für Kunsthandwerk und kulinarische Köstlichkeiten bietet, sondern auch Einblicke in die einzigartige pädagogische Philosophie dieser alternativen Bildungseinrichtung gewährt. Im Mittelpunkt des Schulalltags steht ein Streben nach Einklang und Ganzheit von Seele, Geist und Körper. Durch rhythmisches Tanzen, farbenfrohes Gestalten und Zeit in der Natur wird auf diese Ziele hingesteuert. Dahinter steckt traditionsreiche Pädagogik, Gemeinschaft und Herzblut.  "
 +++
-# Basar, Bildung, Gemeinschaft: Die einzigartige Welt der Rudolf Steiner Schule
-
 `{{<lead>}}`\
 Einmal im Jahr öffnet die Rudolf Steiner Schule in Ittigen ihre Tore für den viel erwarteten Steiner Schul-Basar. Ein bunter Marktplatz der Kreativität, der nicht nur ein Schaufenster für Kunsthandwerk und kulinarische Köstlichkeiten bietet, sondern auch Einblicke in die einzigartige pädagogische Philosophie dieser alternativen Bildungseinrichtung gewährt. Im Mittelpunkt des Schulalltags steht ein Streben nach Einklang und Ganzheit von Seele, Geist und Körper. Durch rhythmisches Tanzen, farbenfrohes Gestalten und Zeit in der Natur wird auf diese Ziele hingesteuert. Dahinter steckt traditionsreiche Pädagogik, Gemeinschaft und Herzblut.  
 
@@ -17,7 +15,7 @@ Rahel Krebs, Lina Britschgi \
 
 `{{<box>}}`
 
-![Gemeinschaft und Kreativität sind das oberste Gebot! Ein Blick auf den Basar der Rudolf Steiner Schule, wo Handwerkskunst und Begegnungen im Einklang mit der Schule stehen.](basar-bild-1_compressed.png "Gemeinschaft und Kreativität sind das oberste Gebot! Ein Blick auf den Basar der Rudolf Steiner Schule, wo Handwerkskunst und Begegnungen im Einklang mit der Schule stehen.")
+![Gemeinschaft und Kreativität sind das oberste Gebot! Ein Blick auf den Basar der Rudolf Steiner Schule, wo Handwerkskunst und Begegnungen im Einklang mit der Schule stehen.](basar-bild-1_compressed.png)
 
 `{{</box>}}`
 
@@ -27,7 +25,7 @@ Um mehr über diese besondere Bildungsphilosophie zu erfahren, gibt es nur einen
 
 {{<box>}}
 
-![Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachten Holzfiguren und Gemälden.](basar-bild.jpg "Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachten Holzfiguren und Gemälden.")
+![Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachten Holzfiguren und Gemälden.](basar-bild.jpg)
 
 `{{</box>}}`
 
@@ -59,7 +57,7 @@ Heutzutage kritisieren einige dieses Lernmodel, da es angeblich für die Kinder 
 >
 > {{<box>}}
 
-![Tanz der Harmonie von Seele, Körper und Geist. Auftritt von Schüler*innen von Eurythmie auf der Rudolf Steiner Schule Bühne auf.(verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024)](eurythmie.reportage.png "Tanz der Harmonie von Seele, Körper und Geist. Auftritt von Schüler*innen von Eurythmie auf der Rudolf Steiner Schule Bühne auf.(verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024)")
+![Tanz der Harmonie von Seele, Körper und Geist. Auftritt von Schüler*innen von Eurythmie auf der Rudolf Steiner Schule Bühne auf.(verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024)](eurythmie.reportage.png)
 
 `{{</box>}}`
 
@@ -71,6 +69,8 @@ Der Basar der Steiner Schule in Ittigen ist somit nicht nur ein Schulanlass für
 
 {{<box>}}
 **Infokasten**
+
+
 
 Weltweit gibt es, Stand Mai 2020 1214 Steiner- respektive Waldorfschulen. Die meisten befinden sich im Gründungsland Deutschland, dort sind es 252 an der Zahl. In der Schweiz sind es 32 darunter auch die Rudolf Steiner Schule in Ittigen.
 
