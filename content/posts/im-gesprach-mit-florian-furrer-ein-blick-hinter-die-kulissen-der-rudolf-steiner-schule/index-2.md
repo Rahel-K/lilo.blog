@@ -80,7 +80,7 @@ Ich hoffe, dass zukünftig mehr Vertrauen in die Schule gelegt wird. Sie soll we
 
 Alles, was anders ist wird stigmatisiert. Jedoch kann man dies abbauen, indem man sich kennenlernt und kommuniziert.   
 
-Oft wird kritisiert, dass Rudolf-Steiner-Schulen keine unabhängigen, ergebnisoffenen Untersuchungen, ihrer pädagogischen Praxis zu lassen. Denken Sie, die Kritik ist zutreffend, und wenn ja wieso denken sie ist das so? 
+**Oft wird kritisiert, dass Rudolf-Steiner-Schulen keine unabhängigen, ergebnisoffenen Untersuchungen, ihrer pädagogischen Praxis zu lassen. Denken Sie, die Kritik ist zutreffend, und wenn ja wieso denken sie ist das so?** 
 
 Die Nationalen Weiterbildungskurse sind öffentlich und da kann jeder hingehen. Auch alle Lehrer besuchen diesen Kurs.  
 
