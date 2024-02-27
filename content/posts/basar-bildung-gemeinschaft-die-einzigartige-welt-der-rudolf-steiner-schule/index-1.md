@@ -17,7 +17,7 @@ Um mehr über diese besondere Bildungsphilosophie zu erfahren, gibt es nur einen
 
 ![Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachten Holzfiguren und Gemälden.](tanz-eurythmie.jpg)
 
-## **Die Pädagogik hinter der Rudolf Steiner Schule**
+### **Die Pädagogik hinter der Rudolf Steiner Schule**
 
 Die Atmosphäre an der Rudolf Steiner Schule zeichnet sich durch Kreativität und Individualität aus. Dies wird beim Durchschlendern des Basars deutlich spürbar. Hier liegt der Fokus auf der natürlichen Entwicklung des Kindes. Lehrpläne unterscheiden sich in grossen Teilen von den herkömmlichen. Sie sind nicht durchstrukturiert, sondern dienen nur als grober Richtwert. Der Unterricht wird in Epochen gestaltet, was bedeutet, dass sich die Schüler*innen für längere Zeit auf ein bestimmtes Fach konzentrieren. Dies ermöglicht ein tieferes Eintauchen in das Thema. Denn in Unterrichtseinheiten gilt Qualität vor Quantität. Es wird weniger Stoff behandelt, jedoch wird das Wissen viel intensiver und tiefer vermittelt, um Informationen langfristig zu lehren. Danach kann man die «Wissenslücken» einfach füllen, da man das grosse Ganze verstanden und noch präsent hat, so zumindest laut Herr Florian Furrer, Lehrer an der Rudolf Steiner Schule Ittigen und Standortleitung dieser Schule. 
 
@@ -29,7 +29,7 @@ Das Leitbild der Rudolf Steiner Schulen stützt sich auf den Glauben an die Geme
 
 > *«Der Basar soll Gemeinschaft, Pflege und Hauswirtschaft fördern. Aber auch das Gemeinschaftsgefühl und die Kultur sollen gestärkt werden. Die Kinder sollen realisieren, dass sie die Schule sind.» (Florian Furrer, 25.11.2023)*
 
-## Diese Philosophie stösst auch auf Kritik
+### Diese Philosophie stösst auch auf Kritik
 
 Heutzutage kritisieren einige dieses Lernmodel, da es angeblich für die Kinder nicht fördernd sei, wenn sie eine zu starke emotionale Bindung zu einer Lehrperson hätten. Ausserdem sei es fast unverantwortbar zu erwarten, dass eine Lehrperson sich das Wissen für acht Schuljahre souverän aneignen und weitergeben könne. Auf den zweiten Kritikpunkt treten einige Schulen ein und lassen die Lehrpersonen drei bis sechs Jahre bei der gleichen Klasse und nicht acht, so auch die Rudolf Steiner Schule in Ittigen.  Ebenfalls bemängelt werden Eurythmie und der grosse Anteil an Kunst- und Handarbeitsfächern. Kritiker sind der Meinung, dass dies die Kinder nicht weiterbringe, sondern pure Zeitverschwendung sei. Die Pädagogik hinter der Steiner Schule legt jedoch expliziten Wert darauf, denn dies soll die Selbstverwirklichung und Entfaltung der Kinder fördern.  Aussenstehende bringen auch Kritik an der Gemeinschaft an, denn die Rudolf Steiner Schule wirke abgeschlossen von der Aussenwelt, und dies würde den Kindern mögliche alternative Perspektiven verwehren und einen gewissen Grad an Homogenität entstehen lassen. Einer der grössten Kritikpunkte im digitalen Zeitalter ist der fehlende Umgang mit neuen Medien. Dies räumt Herr Furrer ebenfalls ein: „Im Vergleich zu staatlichen Schulen haben wir punkto digitaler Medien aber noch viel aufzuholen.“ Trotz der Kritikpunkte gibt es viele Eltern, welche den Fokus auf persönliche Entfaltung und kreative Verwirklichung schätzen und gerade deswegen die Rudolf Steiner Schule für ihre Kinder wählen. Die Debatte über diesen alternativen Bildungsweg wird weithin kontrovers geführt. Diskussionspunkte sind, ob die Rudolf Steiner Schule tatsächlich einen Weg zu einer ganzheitlichen Bildung darstellt und ob sie den Anforderungen der modernen Welt ausreichend gerecht werden kann.
 
@@ -37,7 +37,7 @@ Heutzutage kritisieren einige dieses Lernmodel, da es angeblich für die Kinder 
 
 ![](tanz-eurythmie.jpg "Tanz der Harmonie von Seele, Körper und Geist. Auftritt von Schüler*innen von Eurythmie auf der Rudolf Steiner Schule Bühne auf.(verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024)")
 
-## Die Pädagogik spürbar am Basar
+### Die Pädagogik spürbar am Basar
 
 In den Theatersälen, welche das gleiche architektonische Muster aufweisen, wie der Rest des Gebäudes, sind Kurzauftritte von Schüler*i*nnen der Schule zu sehen. Beim Betrachten dieser Darbietungen ist zu erkennen, dass diese hervorragend strukturiert sind und authentisch wirken. Die Kinder entfalten auf dieser Bühne förmlich ihr Inneres, sie drücken Einklang zwischen Geist, Körper und Seele aus und verzaubern die Menschenmassen. Die Auftritte gehen zu Ende und der Applaus beginnt zu toben. Die Menschen erheben sich und strömen mit heiteren Gesprächen aus dem Saal. Auf einer Steinbank sitzend, wird das Gehörte und Gesehene eingeordnet und reflektiert. Die selbstgefertigten Postkarten, Kerzen und der Schmuck, welche auf den Basarständen präsentiert werden, spiegeln den Fokus auf kreatives Schaffen und Selbstentfaltung wider. Die individuelle Entwicklung und hauswirtschaftlichen Fähigkeiten werden beim Basar gefördert, da die Kinder die Stände teils selbst betreiben. Die Schülerinnen sind aktiv in den Organisationsprozess eingebunden, sei es bei der Auswahl der Produkte, beim Aufbau von Ständen oder bei der Durchführung von Aktivitäten. Dies spiegelt die Vision wider, dass Bildung ein gemeinschaftlicher Prozess ist, in welchem Lehrpersonen und Kinder eine gleichwertige Rolle spielen.
 
