@@ -2,8 +2,9 @@
 title = "Weiblichkeit im Wandel: Emanzipation und Identität der Frau"
 date = "2024-10-21"
 draft = false
-pinned = false
+pinned = true
 tags = []
+image = "https://www.bildungsserver.de/innovationsportal/pic/Emanzipation.png"
 description = ""
 +++
 # Weiblichkeit im Wandel: Emanzipation und Identität der Frau
